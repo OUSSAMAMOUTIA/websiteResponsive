@@ -63,7 +63,7 @@ header .container {
   color: var(--clr-orange);
 }
 #first_section {
-  background: url("assets/showcase.jpg") no-repeat center center;
+  background: url("../assets/showcase.jpg") no-repeat center center;
   background-size: cover;
   padding: 7rem 0;
   text-align: center;
